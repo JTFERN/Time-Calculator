@@ -13,4 +13,4 @@ Write a function named add_time that takes in two required parameters and one op
 The function should add the duration time to the start time and return the result.
 
 Joao_Solved provides my proposed working solution.
-The following files are the ones used by freeCodeCamp to check wether it's a valid solution
+The following files are the ones used by freeCodeCamp to check whether it's a valid solution
